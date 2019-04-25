@@ -1,0 +1,9 @@
+C:\Users\prog5\documents\visual studio 2015\Projects\triton1\triton1\bin\Release\triton1.exe.config
+C:\Users\prog5\documents\visual studio 2015\Projects\triton1\triton1\bin\Release\triton1.exe
+C:\Users\prog5\documents\visual studio 2015\Projects\triton1\triton1\bin\Release\triton1.pdb
+C:\Users\prog5\documents\visual studio 2015\Projects\triton1\triton1\bin\Release\Newtonsoft.Json.dll
+C:\Users\prog5\documents\visual studio 2015\Projects\triton1\triton1\bin\Release\Newtonsoft.Json.pdb
+C:\Users\prog5\documents\visual studio 2015\Projects\triton1\triton1\bin\Release\Newtonsoft.Json.xml
+C:\Users\prog5\documents\visual studio 2015\Projects\triton1\triton1\obj\Release\triton1.exe
+C:\Users\prog5\documents\visual studio 2015\Projects\triton1\triton1\obj\Release\triton1.pdb
+C:\Users\prog5\documents\visual studio 2015\Projects\triton1\triton1\obj\Release\triton1.csprojResolveAssemblyReference.cache
